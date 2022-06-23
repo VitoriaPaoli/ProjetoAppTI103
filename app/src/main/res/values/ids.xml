@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtTituloMostrarFilmes" type="id" />
+    <item name="txtAnoMostrarFilmes" type="id" />
+    <item name="txtCassificacaoMostrarFilmes" type="id" />
+</resources>
